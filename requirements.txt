@@ -1,0 +1,5 @@
+datasets==2.10.1
+trlx==0.3.0
+torch==2.0.1
+transformers
+Flask==2.2.3

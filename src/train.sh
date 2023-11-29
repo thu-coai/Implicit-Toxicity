@@ -1,0 +1,1 @@
+accelerate launch --config_file configs/default_accelerate_config.yaml trlx_gptj_text_summarization.py

@@ -1,0 +1,1 @@
+deepspeed --master_port 25191 train_reward_model_gptj.py
