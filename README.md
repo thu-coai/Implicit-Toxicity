@@ -2,7 +2,7 @@
 
 This repository contains data and code for our EMNLP 2023 paper
 
-> Unveiling the Implicit Toxicity in Large Language Models
+> [Unveiling the Implicit Toxicity in Large Language Models](https://arxiv.org/pdf/2311.17391.pdf)
 
 In this work, we show that large language models can generate diverse implicit toxic outputs that are exceptionally difficult to detect via simply zero-shot prompting. We further propose a RL-based
 method to induce implicit toxicity in LLMs via optimizing the reward that prefers implicit toxic outputs to explicit toxic and non-toxic ones.
