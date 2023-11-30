@@ -55,7 +55,7 @@ bash train.sh
 ### 4. Citation
 
 ```
-@article{wen2023re,
+@article{wen2023implicit,
   title={Unveiling the Implicit Toxicity in Large Language Models},
   author={Wen, Jiaxin and Ke, Pei, and Sun, Hao and Zhang, Zhexin and Li, Chengfei and Bai, Jinfeng and Huang, Minlie},
   journal={arXiv preprint arXiv:2311.17391},
