@@ -51,3 +51,14 @@ CUDA_VISIBLE_DEVICES=7 python reward_api.py
 CUDA_VISIBLE_DEVICES=7 python attack_reward_api.py
 bash train.sh
 ```
+
+### 4. Citation
+
+```
+@article{wen2023re,
+  title={Unveiling the Implicit Toxicity in Large Language Models},
+  author={Wen, Jiaxin and Ke, Pei, and Sun, Hao and Zhang, Zhexin and Li, Chengfei and Bai, Jinfeng and Huang, Minlie},
+  journal={arXiv preprint arXiv:2311.17391},
+  year={2023}
+}
+```
